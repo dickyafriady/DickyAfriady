@@ -1,4 +1,4 @@
-<h2 align="left">:: Hello World !!</h2>
+<h2 align="left">hello world 👋</h2>
 
 ###
 
@@ -29,8 +29,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dickyafriady/dickyafriady/output/pacman-contribution-graph-dark.svg">
