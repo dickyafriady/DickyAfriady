@@ -1,43 +1,39 @@
-<h2 align="left">hello world 👋</h2>
+<h2 align="left">Hello world 🌏</h2>
 
 ###
 
 <h4 align="left">I'm Afriady, let's create something amazing together!</h4>
 
 ###
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYzODQ0eGMyejFvb3dyNXFmZWtrajJpMzl4ZHgxbnhsNzV6cmxzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cPxRDvlSj9QKA/giphy.gif"  />
-</div>
+
+<br clear="both">
+
+<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc4ZHZwcjhycXpjNTc1enI2dWN4d2E3N2M4aG1tNjZkbnRlMTlwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pdO91FbW68MBG/giphy.gif"  />
+
+###
+
+<p align="left"></p>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="44" alt="anaconda logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="44" alt="windows8 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="44" alt="putty logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="44" alt="matlab logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" alt="linux logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="44" alt="inkscape logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="figma logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dickyafriady/dickyafriady/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dickyafriady/dickyafriady/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dickyafriady/dickyafriady/output/pacman-contribution-graph.svg">
-</picture>
-###
-
-<img src="https://raw.githubusercontent.com/dickyafriady/dickyafriady/output/snake.svg" alt="Snake animation" />
 
 ###
