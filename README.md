@@ -5,8 +5,9 @@
 <h4 align="left">I'm Afriady, let's create something amazing together!</h4>
 
 ###
-
-<img align="right" height="152" src="https://media.giphy.com/media/v1.Y2lkPTgyYTE0OTNiOHIzd3g3NGdpbjhnOW52NGhxY3N2aG13enk0N2Q1djBuazN5amQ1MSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/B6odR0DhsStfW/giphy.gif"  />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYzODQ0eGMyejFvb3dyNXFmZWtrajJpMzl4ZHgxbnhsNzV6cmxzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cPxRDvlSj9QKA/giphy.gif"  />
+</div>
 
 ###
 
