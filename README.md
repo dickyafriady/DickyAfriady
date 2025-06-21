@@ -37,3 +37,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/dickyafriady/dickyafriady/output/snake.svg" alt="Snake animation" />
+
+###
