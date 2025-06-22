@@ -1,17 +1,15 @@
-<h1 align="left">:/hello <code/>!</h1>
+<h1 align="left">/hello <code/>!</h1>
 
 ###
 
 <img align="right" height="152" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2t1bGJxazhqejdvMWE0djluMTBocTJ5ZzhpYTN3NmI4bmI3Y3FtMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dklcjoe5fW4ND8IRHm/giphy.gif"  />
 
 ###
-
 <div align="left">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
-
 ###
 
 <h4 align="left">I'm Afriady, welcome to my profile 🎶😶‍🌫️. Tech enthusiast very curious about how systems work. Thanks for visiting let's learn and make something cool!</h4>
