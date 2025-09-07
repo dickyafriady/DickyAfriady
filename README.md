@@ -6,10 +6,6 @@
 
 ###
 
-
-
-###
-
 <h4 align="left">hello i'm Ady🚀✨
 tech tinkerer and system explorer — always fueled by curiosity. Welcome to my space, where ideas turn into code and experiments become experience. Glad you dropped by — let’s learn, build, and break things together. cool!</h4>
 
